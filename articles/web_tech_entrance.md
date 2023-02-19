@@ -1,5 +1,15 @@
-## 概要
+---
+title: "【書評】Web技術入門"
+emoji: "🎉"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["初心者","Web","Zenn"]
+published: true
+---
+## 読んだ本
 
+https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352?crid=1B39CD3L8VAT8&keywords=web%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80&qid=1676809642&sprefix=web%E6%8A%80%E8%A1%93%2Caps%2C167&sr=8-1&linkCode=li2&tag=hironobu0824-22&linkId=6dcdd613289860d6ac32545cbb2efd64&language=ja_JP&ref_=as_li_ss_il
+
+## 概要
 ### 0 プロローグ
 - 本書の目的や価値について述べている章。
 - Webアプリケーションを言語やフレームワークを用いて作ることができても、Webの仕組みを理解していないと障害が起きた時に本質的な解決をすることができない。
@@ -58,5 +68,4 @@ Webサーバとアプリケーションサーバの連携について、Javaで�
 説明だけでなくコードも交えた説明になっているが、実際に手を動かしながらというわけではなさそう。
 この本だけではWebの知識は十分ではないが、中級者向けの本を読む前になんとなくのイメージを掴むのに良い。
 
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hironobu0824-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4774142352&linkId=7b6545b0b372c84ba69443580f2d0b48"></iframe>
+https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352?crid=1B39CD3L8VAT8&keywords=web%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80&qid=1676809642&sprefix=web%E6%8A%80%E8%A1%93%2Caps%2C167&sr=8-1&linkCode=li2&tag=hironobu0824-22&linkId=6dcdd613289860d6ac32545cbb2efd64&language=ja_JP&ref_=as_li_ss_il
