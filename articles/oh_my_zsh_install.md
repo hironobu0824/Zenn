@@ -2,7 +2,7 @@
 title: "いい加減Oh My Zsh!を入れた"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["Zsh","OhMyZsh","ターミナル"]
 published: true
 ---
 ## Oh My Zsh!とは
@@ -25,10 +25,10 @@ Zshシェルのためのカスタマイズと管理を容易にするフレー�
    ```
    インストール完了後、以下のように見た目が変化。
    (before) 
-   <img src='/images/image1.png' width='70%'>
-   (after)
-   <img src='/images/image2.png' width='50%'><br>
-  
+   ![](/images/image1.png)
+    (after)
+   ![](/images/image2.png)
+
   <詳細>
     Oh My Zsh!がインストールされるとzshシェルの設定ファイルである`~/.zshrc`が上書かれ、`~/.oh-my-zsh`というディレクトリが置かれる。
 <br>
@@ -44,7 +44,7 @@ source ~/.zshrc
 ```
 で反映すると、以下のようなデザインに変わった。(ターミナル再起動でも可)
 
-<img src='/images/image3.png' width='60%'>
+![](/images/image3.png)
 
 ##### 3. プラグインのインストール
 プラグインは[公式サイト](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins-Overview)に記載されているものと、[zsh-usersというGithubプロジェクト](https://github.com/zsh-users)に記載されているユーザーが作ったものと２種類ある。
